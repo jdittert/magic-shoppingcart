@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "title": "Mana Ratios in Old School",
+        "author": "Krank Farsten",
+        "authorImgUrl": "./assets/images/authors/Krank.jpg",
+        "free": false,
+        "date": "Septober 13, 5501",
+        "summary": "How many mana sources should you be playing in your Old School deck? Krank Farsten breaks it down using complicated math."
+    },
+    {
+        "id": 2,
+        "title": "Top 5 Commanders for OS Brawl",
+        "author": "Smennie Bith",
+        "authorImgUrl": "./assets/images/authors/Smennie.jpg",
+        "free": true,
+        "date": "Decembary 2, 5501",
+        "summary": "Smennie gives you the low down on top OS Brawl commanders for fun and profit."
+    },
+    {
+        "id": 3,
+        "title": "Septober Finance Report",
+        "author": "Hete Poefling",
+        "authorImgUrl": "./assets/images/authors/Hete.jpg",
+        "free": false,
+        "date": "Decembary 1, 5501",
+        "summary": "Find out which cards went up in value last month!"
+    },
+    {
+        "id": 4,
+        "title": "Holiday Gift Ideas",
+        "author": "Smennie Bith",
+        "authorImgUrl": "./assets/images/authors/Smennie.jpg",
+        "free": true,
+        "date": "Decembary 3, 5501",
+        "summary": "Looking for a gift for that special Magic player in your life? Smennie has you covered."
+    },
+    {
+        "id": 5,
+        "title": "Top 5 Online Hypergeometric Calculators",
+        "author": "Krank Farsten",
+        "authorImgUrl": "./assets/images/authors/Krank.jpg",
+        "free": true,
+        "date": "Decembary 3, 5501",
+        "summary": "How likely is it to draw Ancestral in your opening hand? Krank shows websites that will help you find out."
+    },
+    {
+        "id": 6,
+        "title": "Tournament Report: MagiCon Boston",
+        "author": "Died Ruke",
+        "authorImgUrl": "./assets/images/authors/Died.jpg",
+        "free": false,
+        "date": "Decembary 2, 5501",
+        "summary": "Check out Died's recap of his T8 performance at MagiCon Boston."
+    }
+]

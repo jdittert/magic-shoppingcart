@@ -1,0 +1,40 @@
+[
+    {
+        "id": "02c4edfa-7822-40bc-88d1-d051b3a64df1",
+        "artist": "Dan Frazier",
+        "imgUrl": "./assets/images/cards/leb-1-animate-wall.png",
+        "name": "Animate Wall",
+        "price": 49.99,
+        "text": "Enchant Wall\nEnchanted Wall can attack as though it didn't have defender.",
+        "type": "Enchantment — Aura",
+        "manaCost": "{W}",
+        "rarity": "rare",
+        "setCode": "LEB"        
+    },
+    {
+        "id": "1a5054a4-599d-49df-9a80-77eeed47891f",
+        "artist": "Mark Tedin",
+        "imgUrl": "./assets/images/cards/leb-226-wall-of-wood.png",
+        "name": "Wall of Wood",
+        "power": 0,
+        "price": 8.84,
+        "text": "Defender (This creature can't attack.)",
+        "toughness": 3,
+        "type": "Creature — Wall",
+        "manaCost": "{G}",
+        "rarity": "common",
+        "setCode": "LEB"
+    },
+    {
+        "id": "cc738025-a771-4186-b08c-7b37c0e9713b",
+        "artist": "Dan Frazier",
+        "imgUrl": "./assets/images/cards/leb-179-tunnel.png",
+        "name": "Tunnel",
+        "price": 14.93,
+        "text": "Destroy target Wall. It can't be regenerated.",
+        "type": "Instant",
+        "manaCost": "{R}",
+        "rarity": "uncommon",
+        "setCode": "LEB"        
+    }
+]

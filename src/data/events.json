@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "MagiCon Narnia",
+        "dates": "Septober 2-4",
+        "location": "Narnia Convention Center",
+        "imgUrl": "./assets/images/events/narnia.jpg"
+    },
+    {
+        "id": 2,
+        "name": "MagiCon The Shire",
+        "dates": "Decembary 7-9",
+        "location": "South Farthing Convention Center",
+        "imgUrl": "./assets/images/events/shire.jpg"
+    },
+    {
+        "id": 3,
+        "name": "MagiCon Winterfell",
+        "dates": "Aprimay 8-10",
+        "location": "Winterfell Convention Center",
+        "imgUrl": "./assets/images/events/winterfell.jpg"
+    }
+]

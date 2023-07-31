@@ -1,0 +1,50 @@
+@keyframes homeBackground
+ {
+    0% {
+        background-color: darksalmon;
+    }    
+    33% {
+        background-color: darkseagreen;
+    }
+    66% {
+        background-color: darkorchid;
+    }
+    100% {
+        background-color: darksalmon;
+    }
+}
+
+.home-header {
+    width: 100%;
+    height: 300px;
+    animation-name: homeBackground;
+    animation-duration: 12s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+
+.events-header {
+    width: 100%;
+    height: 300px;
+    background-color: lightblue;
+}
+
+.content-header {
+    width: 100%;
+    height: 150px;
+    background-color: lightblue;
+}
+
+.ad-ultra, .ad-event {
+    width: 100%;
+    height: 300px;
+    border-radius: 8px;    
+}
+
+.ad-ultra {
+    background-color: darksalmon;
+}
+
+.ad-event {
+    background-color: darkseagreen;
+}
