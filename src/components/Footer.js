@@ -12,7 +12,7 @@ export function Footer() {
                     <Col>
                     <p className='fw-bold'>About</p>
                     <p><Link to='/attributions'>Attributions</Link></p>
-                    <p>Github</p>
+                    <p><Link to={{pathname: 'https://github.com/jdittert/magic-shoppingcart'}}>Github</Link></p>
                     </Col>
                     <Col>
                     <p className='fw-bold'>Links</p>
