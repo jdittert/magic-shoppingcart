@@ -1,6 +1,8 @@
 # Magic Card Shopping Cart
 
 ## Description
+[Live Demo](https://jdittert.github.io/magic-shoppingcart/)
+
 MagiStore is a fake Magic: the Gathering commerce site in the vein of StarCityGames.com or TCGPlayer.com. The site features a shopping cart as well as 
 content pages for articles, events, etc. My goals were to implement a functional shopping cart, get more comfortable using Bootstrap for styling, and utilize
 [Scryfall's API](https://scryfall.com/docs/api).
